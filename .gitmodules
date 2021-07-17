@@ -1,0 +1,3 @@
+[submodule "AzentSearchFrontend"]
+	path = AzentSearchFrontend
+	url = https://github.com/simpletonturf/AzentSearchFrontend.git
